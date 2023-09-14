@@ -1,5 +1,5 @@
 <div align = "center">
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fcourses%2Fcredit-risk-modeling-in-python&psig=AOvVaw08vFHzoJno-I9Y51az3Kup&ust=1692015615613000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjuvcDP2YADFQAAAAAdAAAAABAK" alt="Drawing" width="300"/>
+<img scr="" alt="Drawing" width="300"/>
 </div>
 
 <center><h1> Credit_Risk_Analytics Python Code Infrastructure </h1></center>
