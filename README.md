@@ -11,7 +11,7 @@
 This repository contains python code from scratch to develop the credit risk model.
 
 In order to be able to run the codes please ensure to do the following steps:
-1. Clone this repository in your machine :<br/> git clone [(https://github.com/omveersinghiitdelhi/Credit_Risk_Analytics.git)] </br>
+1. Clone this repository in your machine :<br/> git clone [https://github.com/omveersinghiitdelhi/Credit_Risk_Analytics.git] </br>
 2. Create a conda environment using the default conda environment script
 3. update the parameter and codes if required
 
