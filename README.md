@@ -1,8 +1,8 @@
 <div align = "center">
-<img scr="https://www.thestreet.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTkxMTQ3NTUxMTgzODczMzkw/credit-risk.webp" alt="Drawing" width="300"/>
+<img scr="" alt="Drawing" width="300"/>
 </div>
 
-<center><h1> Credit_Risk_Analytics Python Code Infrastructure </h1></center>
+<center><h1> Credit Risk Analytics Python Code Infrastructure </h1></center>
 
 <span style="color:red">** README - Omveer Singh **</span>
 
